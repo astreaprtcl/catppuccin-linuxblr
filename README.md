@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/MaraWoerle/catppuccin-linuxblr/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/MaraWoerle/catppuccin-linuxblr/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/MaraWoerle/catppuccin-linuxblr/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ See [the userstyle usage instructions](https://github.com/catppuccin/userstyles/
 
 ## 💝 Thanks to
 
-- [Astreaprtcl](https://github.com/MaraWoerle)
+- [Astreaprtcl](https://github.com/astreaprtcl)
 
 &nbsp;
 
