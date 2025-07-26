@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/stargazers"><img src="https://img.shields.io/github/stars/astreaprtcl/catppuccin-linuxblr?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/issues"><img src="https://img.shields.io/github/issues/astreaprtcl/catppuccin-linuxblr?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/astreaprtcl/catppuccin-linuxblr/contributors"><img src="https://img.shields.io/github/contributors/astreaprtcl/catppuccin-linuxblr?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/linuxpostingxyz/catppuccin-linuxblr/stargazers"><img src="https://img.shields.io/github/stars/linuxpostingxyz/catppuccin-linuxblr?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/linuxpostingxyz/catppuccin-linuxblr/issues"><img src="https://img.shields.io/github/issues/linuxpostingxyz/catppuccin-linuxblr?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/linuxpostingxyz/catppuccin-linuxblr/contributors"><img src="https://img.shields.io/github/contributors/linuxpostingxyz/catppuccin-linuxblr?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
